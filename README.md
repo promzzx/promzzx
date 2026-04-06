@@ -9,7 +9,7 @@
 **Go · Distributed Systems · Highload · Web3**
 
 [![Telegram](https://img.shields.io/badge/Telegram-@VishnyakovAnton-2CA5E0?style=flat-square&logo=telegram)](https://t.me/VishnyakovAnton)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anton_Vishnyakov-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anton-vishnyakov-9392b6389)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anton_Vishnyakov-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anton-vishnyakov)
 [![Open to work](https://img.shields.io/badge/Open_to_work-28a745?style=flat-square)](#open-to-opportunities)
 
 </div>
@@ -96,18 +96,6 @@ Focused on performance, reliability, and solving problems that actually matter a
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=promzzx&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=promzzx&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
@@ -122,7 +110,7 @@ Focused on performance, reliability, and solving problems that actually matter a
 
 Looking for **Backend / Distributed Systems / Web3** roles where engineering quality is taken seriously — teams that build for reliability, own their incidents, and care about what happens under load.
 
-> **Contact:** [Telegram @VishnyakovAnton](https://t.me/VishnyakovAnton) · [LinkedIn](https://www.linkedin.com/in/anton-vishnyakov-9392b6389)
+> **Contact:** [Telegram @VishnyakovAnton](https://t.me/VishnyakovAnton) · [LinkedIn](https://www.linkedin.com/in/anton-vishnyakov)
 
 ---
 
