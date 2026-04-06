@@ -88,6 +88,16 @@ I've shipped services processing **300–1500 RPS**, integrated **20+ external s
 
 ---
 
+## Contribution Activity
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/promzzx/promzzx/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## Open to Opportunities
 
 I'm looking for **Backend / Distributed Systems / Web3** roles at companies where engineering quality matters — teams that care about reliability, performance, and building things that last.
