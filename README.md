@@ -9,7 +9,6 @@
 **Go · Distributed Systems · Highload · Web3**
 
 [![Telegram](https://img.shields.io/badge/Telegram-@VishnyakovAnton-2CA5E0?style=flat-square&logo=telegram)](https://t.me/VishnyakovAnton)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anton_Vishnyakov-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anton-vishnyakov)
 [![Open to work](https://img.shields.io/badge/Open_to_work-28a745?style=flat-square)](#open-to-opportunities)
 
 </div>
